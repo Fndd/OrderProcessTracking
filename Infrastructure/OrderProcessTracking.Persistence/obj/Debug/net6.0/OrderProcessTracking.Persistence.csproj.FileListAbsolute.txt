@@ -1,0 +1,17 @@
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Infrastructure\OrderProcessTracking.Persistence\bin\Debug\net6.0\OrderProcessTracking.Persistence.deps.json
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Infrastructure\OrderProcessTracking.Persistence\bin\Debug\net6.0\OrderProcessTracking.Persistence.dll
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Infrastructure\OrderProcessTracking.Persistence\bin\Debug\net6.0\OrderProcessTracking.Persistence.pdb
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Infrastructure\OrderProcessTracking.Persistence\bin\Debug\net6.0\OrderProcessTracking.Application.dll
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Infrastructure\OrderProcessTracking.Persistence\bin\Debug\net6.0\OrderProcessTracking.Domain.dll
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Infrastructure\OrderProcessTracking.Persistence\bin\Debug\net6.0\OrderProcessTracking.Application.pdb
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Infrastructure\OrderProcessTracking.Persistence\bin\Debug\net6.0\OrderProcessTracking.Domain.pdb
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Infrastructure\OrderProcessTracking.Persistence\obj\Debug\net6.0\OrderProcessTracking.Persistence.csproj.AssemblyReference.cache
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Infrastructure\OrderProcessTracking.Persistence\obj\Debug\net6.0\OrderProcessTracking.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Infrastructure\OrderProcessTracking.Persistence\obj\Debug\net6.0\OrderProcessTracking.Persistence.AssemblyInfoInputs.cache
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Infrastructure\OrderProcessTracking.Persistence\obj\Debug\net6.0\OrderProcessTracking.Persistence.AssemblyInfo.cs
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Infrastructure\OrderProcessTracking.Persistence\obj\Debug\net6.0\OrderProcessTracking.Persistence.csproj.CoreCompileInputs.cache
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Infrastructure\OrderProcessTracking.Persistence\obj\Debug\net6.0\OrderProcessTracking.Persistence.csproj.CopyComplete
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Infrastructure\OrderProcessTracking.Persistence\obj\Debug\net6.0\OrderProcessTracking.Persistence.dll
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Infrastructure\OrderProcessTracking.Persistence\obj\Debug\net6.0\refint\OrderProcessTracking.Persistence.dll
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Infrastructure\OrderProcessTracking.Persistence\obj\Debug\net6.0\OrderProcessTracking.Persistence.pdb
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Infrastructure\OrderProcessTracking.Persistence\obj\Debug\net6.0\ref\OrderProcessTracking.Persistence.dll

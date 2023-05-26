@@ -1,0 +1,17 @@
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Infrastructure\OrderProcessTracking.Infrastructure\bin\Debug\net6.0\OrderProcessTracking.Infrastructure.deps.json
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Infrastructure\OrderProcessTracking.Infrastructure\bin\Debug\net6.0\OrderProcessTracking.Infrastructure.dll
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Infrastructure\OrderProcessTracking.Infrastructure\bin\Debug\net6.0\OrderProcessTracking.Infrastructure.pdb
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Infrastructure\OrderProcessTracking.Infrastructure\bin\Debug\net6.0\OrderProcessTracking.Application.dll
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Infrastructure\OrderProcessTracking.Infrastructure\bin\Debug\net6.0\OrderProcessTracking.Domain.dll
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Infrastructure\OrderProcessTracking.Infrastructure\bin\Debug\net6.0\OrderProcessTracking.Application.pdb
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Infrastructure\OrderProcessTracking.Infrastructure\bin\Debug\net6.0\OrderProcessTracking.Domain.pdb
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Infrastructure\OrderProcessTracking.Infrastructure\obj\Debug\net6.0\OrderProcessTracking.Infrastructure.csproj.AssemblyReference.cache
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Infrastructure\OrderProcessTracking.Infrastructure\obj\Debug\net6.0\OrderProcessTracking.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Infrastructure\OrderProcessTracking.Infrastructure\obj\Debug\net6.0\OrderProcessTracking.Infrastructure.AssemblyInfoInputs.cache
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Infrastructure\OrderProcessTracking.Infrastructure\obj\Debug\net6.0\OrderProcessTracking.Infrastructure.AssemblyInfo.cs
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Infrastructure\OrderProcessTracking.Infrastructure\obj\Debug\net6.0\OrderProcessTracking.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Infrastructure\OrderProcessTracking.Infrastructure\obj\Debug\net6.0\OrderProcessTracking.Infrastructure.csproj.CopyComplete
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Infrastructure\OrderProcessTracking.Infrastructure\obj\Debug\net6.0\OrderProcessTracking.Infrastructure.dll
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Infrastructure\OrderProcessTracking.Infrastructure\obj\Debug\net6.0\refint\OrderProcessTracking.Infrastructure.dll
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Infrastructure\OrderProcessTracking.Infrastructure\obj\Debug\net6.0\OrderProcessTracking.Infrastructure.pdb
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Infrastructure\OrderProcessTracking.Infrastructure\obj\Debug\net6.0\ref\OrderProcessTracking.Infrastructure.dll

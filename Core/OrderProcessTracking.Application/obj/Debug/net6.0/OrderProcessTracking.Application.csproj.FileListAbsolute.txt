@@ -1,0 +1,15 @@
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Core\OrderProcessTracking.Application\bin\Debug\net6.0\OrderProcessTracking.Application.deps.json
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Core\OrderProcessTracking.Application\bin\Debug\net6.0\OrderProcessTracking.Application.dll
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Core\OrderProcessTracking.Application\bin\Debug\net6.0\OrderProcessTracking.Application.pdb
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Core\OrderProcessTracking.Application\bin\Debug\net6.0\OrderProcessTracking.Domain.dll
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Core\OrderProcessTracking.Application\bin\Debug\net6.0\OrderProcessTracking.Domain.pdb
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Core\OrderProcessTracking.Application\obj\Debug\net6.0\OrderProcessTracking.Application.csproj.AssemblyReference.cache
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Core\OrderProcessTracking.Application\obj\Debug\net6.0\OrderProcessTracking.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Core\OrderProcessTracking.Application\obj\Debug\net6.0\OrderProcessTracking.Application.AssemblyInfoInputs.cache
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Core\OrderProcessTracking.Application\obj\Debug\net6.0\OrderProcessTracking.Application.AssemblyInfo.cs
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Core\OrderProcessTracking.Application\obj\Debug\net6.0\OrderProcessTracking.Application.csproj.CoreCompileInputs.cache
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Core\OrderProcessTracking.Application\obj\Debug\net6.0\OrderProcessTracking.Application.csproj.CopyComplete
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Core\OrderProcessTracking.Application\obj\Debug\net6.0\OrderProcessTracking.Application.dll
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Core\OrderProcessTracking.Application\obj\Debug\net6.0\refint\OrderProcessTracking.Application.dll
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Core\OrderProcessTracking.Application\obj\Debug\net6.0\OrderProcessTracking.Application.pdb
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Core\OrderProcessTracking.Application\obj\Debug\net6.0\ref\OrderProcessTracking.Application.dll

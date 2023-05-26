@@ -1,0 +1,12 @@
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Core\OrderProcessTracking.Domain\bin\Debug\net6.0\OrderProcessTracking.Domain.deps.json
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Core\OrderProcessTracking.Domain\bin\Debug\net6.0\OrderProcessTracking.Domain.dll
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Core\OrderProcessTracking.Domain\bin\Debug\net6.0\OrderProcessTracking.Domain.pdb
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Core\OrderProcessTracking.Domain\obj\Debug\net6.0\OrderProcessTracking.Domain.csproj.AssemblyReference.cache
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Core\OrderProcessTracking.Domain\obj\Debug\net6.0\OrderProcessTracking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Core\OrderProcessTracking.Domain\obj\Debug\net6.0\OrderProcessTracking.Domain.AssemblyInfoInputs.cache
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Core\OrderProcessTracking.Domain\obj\Debug\net6.0\OrderProcessTracking.Domain.AssemblyInfo.cs
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Core\OrderProcessTracking.Domain\obj\Debug\net6.0\OrderProcessTracking.Domain.csproj.CoreCompileInputs.cache
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Core\OrderProcessTracking.Domain\obj\Debug\net6.0\OrderProcessTracking.Domain.dll
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Core\OrderProcessTracking.Domain\obj\Debug\net6.0\refint\OrderProcessTracking.Domain.dll
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Core\OrderProcessTracking.Domain\obj\Debug\net6.0\OrderProcessTracking.Domain.pdb
+C:\Funda\Projects\Arge\OrderProcessTracking\OrderProcessTracking\Core\OrderProcessTracking.Domain\obj\Debug\net6.0\ref\OrderProcessTracking.Domain.dll

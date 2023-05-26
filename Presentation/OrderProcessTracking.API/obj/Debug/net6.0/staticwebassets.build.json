@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aFW+17WOKVSzaor7q+7Xl3c0Oz9KHQOqy6i+3yHLIOE=",
+  "Source": "OrderProcessTracking.API",
+  "BasePath": "_content/OrderProcessTracking.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
