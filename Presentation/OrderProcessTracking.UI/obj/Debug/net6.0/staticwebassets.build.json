@@ -1,23 +1,11 @@
 {
   "Version": 1,
-  "Hash": "2llXHKjbiSgWCIW+4TUQcjzAzYlECzZWwXAQyNuDuiM=",
+  "Hash": "ItKTGBrkd0dTqlYq9tYTiJUg7skeiYIiELD9VLd1B3Q=",
   "Source": "OrderProcessTracking.UI",
   "BasePath": "_content/OrderProcessTracking.UI",
   "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [
-    {
-      "Identity": "C:\\Funda\\Projects\\Arge\\OrderProcessTracking\\OrderProcessTracking\\Presentation\\OrderProcessTracking.API\\OrderProcessTracking.API.csproj",
-      "Version": 2,
-      "Source": "OrderProcessTracking.API",
-      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
-      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
-      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
-      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
-      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
-      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
-    }
-  ],
+  "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
       "Name": "OrderProcessTracking.UI\\wwwroot",

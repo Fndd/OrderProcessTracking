@@ -9,7 +9,10 @@
     <PackageReference Include="DevExtreme.AspNet.Core" Version="22.2.3" />
     </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\OrderProcessTracking.API\OrderProcessTracking.API.csproj" />
+    <ProjectReference Include="..\..\Core\OrderProcessTracking.Domain\OrderProcessTracking.Domain.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Views\" />
   </ItemGroup>
   <ProjectExtensions><VisualStudio><UserProperties TemplateFeatures="NETCORE" /></VisualStudio></ProjectExtensions>
 </Project>

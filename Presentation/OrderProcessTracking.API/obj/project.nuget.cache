@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "u9T5fSHSj00vWqHHvmIcGDDUI8cWXAL1QfYO85FZkdWPSU06j35bmYo+RLUuBxYwqwfzOfoYZRq/hK084l4NTw==",
+  "dgSpecHash": "zk5iSNq451n0ZWEg/U4Szzz2vwUK2kIei2zM6Te5cGAQs3XJFPLKzGYYFm6/zlS7KI+8+WICYJpL79zriBodrA==",
   "success": true,
   "projectFilePath": "C:\\Funda\\Projects\\Arge\\OrderProcessTracking\\OrderProcessTracking\\Presentation\\OrderProcessTracking.API\\OrderProcessTracking.API.csproj",
   "expectedPackageFiles": [
@@ -31,6 +31,7 @@
     "C:\\Users\\emars\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\emars\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
     "C:\\Users\\emars\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\emars\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\emars\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
     "C:\\Users\\emars\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.4\\npgsql.entityframeworkcore.postgresql.7.0.4.nupkg.sha512",
     "C:\\Users\\emars\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",

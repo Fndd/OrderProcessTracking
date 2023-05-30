@@ -24,7 +24,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentatio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderProcessTracking.UI", "Presentation\OrderProcessTracking.UI\OrderProcessTracking.UI.csproj", "{20F3612D-73F8-4EAB-80C9-950B7F9C575A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderProcessTracking.API", "Presentation\OrderProcessTracking.API\OrderProcessTracking.API.csproj", "{739A41CC-3F64-473D-AD04-D34A02117A50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderProcessTracking.API", "Presentation\OrderProcessTracking.API\OrderProcessTracking.API.csproj", "{739A41CC-3F64-473D-AD04-D34A02117A50}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

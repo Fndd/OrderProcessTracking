@@ -59,6 +59,10 @@
     <script src="~/js/devextreme/aspnet/dx.aspnet.mvc.js"></script>
     <script src="~/js/devextreme/aspnet/dx.aspnet.data.js"></script>
 </head>
+<mat-drawer-container class="example-container">
+    <mat-drawer mode="side" opened>Drawer content</mat-drawer>
+    <mat-drawer-content>Main content</mat-drawer-content>
+</mat-drawer-container>
 
 <body class="dx-viewport">
     <div id="app-side-nav-outer-toolbar">
@@ -123,7 +127,11 @@
                         .Icon("home")
                         .Option("path", GetUrl("/Index"))
                         .Selected(IsCurrentUrl("/Index"));
-
+                    items.Add()
+                    .Text("Product")
+                    .Icon("product")
+                    .Option("path", GetUrl("/Product/Index"))
+                    .Selected(IsCurrentUrl("/Product/Index"));
                     items.Add()
                         .Text("About")
                         .Icon("info")

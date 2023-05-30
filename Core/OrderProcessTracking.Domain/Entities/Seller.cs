@@ -15,7 +15,7 @@ namespace OrderProcessTracking.Domain.Entities
         public string Email { get; set; }
         public string Adress { get; set; }
         public string WebSite { get; set; }
-        public ICollection<Order> Orders { get; set; }
-        public ICollection<Demand> Demands { get; set; }
+        public ICollection<Order>? Orders { get; set; }
+        public ICollection<Demand>? Demands { get; set; }
     }
 }

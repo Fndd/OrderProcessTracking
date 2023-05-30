@@ -18,4 +18,8 @@
     <ProjectReference Include="..\..\Core\OrderProcessTracking.Application\OrderProcessTracking.Application.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Migrations\" />
+  </ItemGroup>
+
 </Project>

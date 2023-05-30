@@ -12,7 +12,7 @@ namespace OrderProcessTracking.Persistence
         static public string ConnectionString
         {
             get
-            {
+            { 
                 ConfigurationManager configurationManager = new();
                 configurationManager.SetBasePath(Path.Combine(Directory.GetCurrentDirectory(), "../../Presentation/OrderProcesstracking.API"));
                 configurationManager.AddJsonFile("appsettings.json");

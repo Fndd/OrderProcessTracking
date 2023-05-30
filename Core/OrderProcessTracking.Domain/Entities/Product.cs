@@ -11,8 +11,8 @@ namespace OrderProcessTracking.Domain.Entities
     {
         public string Name { get; set; }
         public int Stock { get; set; }
-        public ICollection<Demand> Demands { get; set; }
-        public ICollection<Order> Orders { get; set; }
-        public ICollection<PriceList> PriceLists { get; set; }
+        public ICollection<Demand>? Demands { get; set; }
+        public ICollection<Order>? Orders { get; set; }
+        public ICollection<PriceList>? PriceLists { get; set; }
     }
 }
