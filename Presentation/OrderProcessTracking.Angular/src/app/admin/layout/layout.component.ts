@@ -1,5 +1,5 @@
-import { Component, OnInit } from '@angular/core';
-
+import { Component, OnInit } from '@angular/core'; 
+import { AlertifyService, MessagePosition, MessageType } from 'src/app/services/admin/alertify.service';
 @Component({
   selector: 'app-layout',
   templateUrl: './layout.component.html',
@@ -10,6 +10,6 @@ export class LayoutComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
-  }
 
+  } 
 }

@@ -5,6 +5,7 @@ import { RouterModule } from '@angular/router';
 import { ProductsModule } from './components/products/products.module';
 import { BasketsModule } from './components/baskets/baskets.module';
 import { HomeModule } from './components/home/home.module';
+import { DemandsModule } from './components/demands/demands.module';
 
 
 
@@ -18,7 +19,8 @@ import { HomeModule } from './components/home/home.module';
   exports: [ 
     ProductsModule, 
     BasketsModule,
-    HomeModule
+    HomeModule,
+    DemandsModule
   ]
 })
 export class UiModule { }
