@@ -9,8 +9,7 @@ namespace OrderProcessTracking.Domain.Entities
 {
     public class Product : BaseEntity
     {
-        public string Name { get; set; }
-        public int Stock { get; set; }
+        public string Name { get; set; } 
         public ICollection<Demand>? Demands { get; set; }
         public ICollection<Order>? Orders { get; set; }
         public ICollection<PriceList>? PriceLists { get; set; }
