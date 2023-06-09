@@ -6,7 +6,7 @@ using OrderProcessTracking.Domain.Entities;
 namespace OrderProcessTracking.API.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/[controller]")]
     public class ProductsController : ControllerBase
     {
         readonly private IProductWriteRepository _productWriteRepository;
@@ -26,7 +26,7 @@ namespace OrderProcessTracking.API.Controllers
         [HttpGet]
         public async Task<IActionResult> Get()
         {
-           return Ok(JsonConvert.SerializeObject(_productReadRepository.GetAll()));
+           return Ok(JsonConvert.SerializeObject(_productReadRepository.GetAll());
 
             //List<Seller> sellerList = new() {
             //    new() {Id = Guid.NewGuid(), Name = "Seller 1 ", Code = "320-01", Email = "seller1@gmail.com", PhoneNumber = "555 555 11 11", WebSite = "www.seller1.com", Adress = "Seller 1 Address", },

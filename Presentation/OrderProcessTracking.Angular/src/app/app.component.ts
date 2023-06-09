@@ -16,4 +16,7 @@ constructor(private toastrService: CustomToastrService){
     position: ToastrMessagePosition.BottomLeft});
 }
 }
+$.get("https://localhost:7052/api/Products", data => {
+  console.log(data);
+});
  
