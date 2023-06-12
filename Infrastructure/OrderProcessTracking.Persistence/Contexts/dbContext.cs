@@ -31,7 +31,9 @@ namespace OrderProcessTracking.Persistence.Contexts
                 _ = data.State switch
                 {
                     EntityState.Added => data.Entity.CreatedDate = DateTime.UtcNow,
-                    EntityState.Modified => data.Entity.UpdateddDate = DateTime.UtcNow
+                    EntityState.Modified => data.Entity.UpdateddDate = DateTime.UtcNow,
+                    _ => DateTime.UtcNow
+
                 };
             }
             return await base.SaveChangesAsync(cancellationToken);
