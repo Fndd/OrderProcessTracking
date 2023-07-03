@@ -30,5 +30,6 @@ export class ProductsComponent extends BaseComponent implements OnInit {
       {controller:"products"}, 
       {name: "kalem 2"}
     ).subscribe(data => console.log(data));
+    this.hideSpinner(SpinnerName.SquareJellyBox);
   } 
 }
